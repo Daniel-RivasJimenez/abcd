@@ -1,1 +1,1 @@
-tonteriasW
+pip install pandas
